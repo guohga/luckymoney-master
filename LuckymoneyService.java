@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 @Service
 public class LuckymoneyService {
 
+
 	@Autowired
 	private LuckmoneyRepository repository;
 
